@@ -1,4 +1,6 @@
----
-layout: redirect
-redirect_url: https://github.com/qiaoqiang
----
+Hello,Github!
+
+//---
+//layout: redirect
+//redirect_url: https://github.com/qiaoqiang
+//---
