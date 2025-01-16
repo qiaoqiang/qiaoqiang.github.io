@@ -2,5 +2,5 @@ Hello,Github!
 
 //---
 //layout: redirect
-//redirect_url: https://github.com/qiaoqiang
+//redirect_url: https://github.com/xxxxxxxqiaoqiang
 //---
