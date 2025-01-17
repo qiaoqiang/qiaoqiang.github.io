@@ -1,8 +1,16 @@
 ---
-layout: home
+layout: default
 title: My Blog
 ---
 
-Hello,Github!
+## 欢迎来到我的博客！一起探索技术的乐趣。
 
-欢迎来到我的博客！一起探索技术的乐趣。
+This is my first blog post using Jekyll.
+
+{% for post in site.posts %}
+### {{ post.date | date_to_string }}
+
+[{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
