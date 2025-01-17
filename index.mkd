@@ -1,3 +1,8 @@
+---
+layout: home
+title: My Blog
+---
+
 Hello,Github!
 
 欢迎来到我的博客！一起探索技术的乐趣。
