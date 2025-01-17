@@ -13,3 +13,28 @@ title: My Blog
 {% endfor %}
 
 
+
+## 最新文章
+
+- [如何学习编程](/blog/how-to-learn-programming.html)
+- [机器学习简介](/blog/introduction-to-machine-learning.html)
+- [我的第一篇博客](/blog/my-first-blog-post.html)
+
+## 热门主题
+
+### 人工智能
+
+- [深度学习入门](/blog/introduction-to-deep-learning.html)
+- [自然语言处理基础](/blog/nlp-basics.html)
+
+### 后端开发
+
+- [嵌入式知识](/blog/learning.html)
+- [操作系统原理](/blog/os-tutorial.html)
+
+## 关于我
+
+我是一名程序员，热爱学习新技术、编写代码、分享知识。欢迎访问我的博客，与我交流！
+
+
+
