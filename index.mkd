@@ -3,6 +3,9 @@ layout: default
 title: My Blog
 ---
 
+<img src="https://avatars.githubusercontent.com/u/16959900?v=4" alt="壁纸" align="right" style="padding: 0 0 10px 10px;">
+
+
 ## 欢迎来到我的博客！一起探索技术的乐趣。
 
 
